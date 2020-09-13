@@ -13,10 +13,10 @@
 </head>
 <body>
 <div class="container">
-    <header class="jumbotron"><%-- image set in site.css --%></header>
     <main>
+        <br />
+        <br />
         <form id="form1" runat="server" class="form-horizontal">
-
             <div class="row">
                 <div class="col-xs-12">
                     <asp:GridView ID="grdProducts" runat="server" AllowPaging="True"
@@ -54,10 +54,10 @@
                             </asp:TemplateField>
                             <asp:CommandField ShowEditButton="True" />
                         </Columns>
-                        <HeaderStyle CssClass="bg-halloween" />
+                        <HeaderStyle CssClass="bg" />
                         <AlternatingRowStyle CssClass="altRow" />
                         <EditRowStyle CssClass="warning" />
-                        <PagerStyle CssClass="bg-halloween" HorizontalAlign="Center" />
+                        <PagerStyle CssClass="bg" HorizontalAlign="Center" />
                     </asp:GridView>
                     <asp:ObjectDataSource ID="ObjectDataSource1" runat="server" OldValuesParameterFormatString="original_{0}"
                         SelectMethod="GetProducts" TypeName="ProductDB" DataObjectTypeName="Product" UpdateMethod="UpdateProduct">

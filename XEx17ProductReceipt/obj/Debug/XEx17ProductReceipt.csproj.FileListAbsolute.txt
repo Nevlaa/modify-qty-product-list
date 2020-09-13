@@ -84,3 +84,36 @@ C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Ass
 C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csproj.CoreCompileInputs.cache
 C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.dll
 C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.pdb
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll.config
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\XEx17ProductReceipt.pdb
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\csc.exe
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\csc.exe.config
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\csc.rsp
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\csi.exe
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\csi.rsp
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\System.AppContext.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\vbc.exe
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\vbc.exe.config
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\vbc.rsp
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csprojAssemblyReference.cache
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csproj.CoreCompileInputs.cache
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.dll
+C:\Users\shors\OneDrive\Desktop\asp_c#\modifyproductlist\modify-qty-product-list\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.pdb
