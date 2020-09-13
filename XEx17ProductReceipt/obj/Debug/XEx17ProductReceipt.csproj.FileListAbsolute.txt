@@ -1,0 +1,86 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\XEx17ProductReceipt.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx17ProductReceipt\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.pdb
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.pdb
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll.config
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\XEx17ProductReceipt.pdb
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\csc.exe
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\csc.exe.config
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\csc.rsp
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\csi.exe
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\csi.rsp
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.AppContext.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\vbc.exe
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\vbc.exe.config
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\vbc.rsp
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csprojAssemblyReference.cache
+C:\Users\Scott Horsburgh\Documents\School Work\PRG410\Week4\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csproj.CoreCompileInputs.cache
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll.config
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\XEx17ProductReceipt.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\XEx17ProductReceipt.pdb
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\csc.exe
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\csc.exe.config
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\csc.rsp
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\csi.exe
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\csi.rsp
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.AppContext.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\vbc.exe
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\vbc.exe.config
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\vbc.rsp
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csprojAssemblyReference.cache
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.csproj.CoreCompileInputs.cache
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C# ASP\PRG410\Week4\Wk4Assignment\Wk3A2\XEx17ProductReceipt\obj\Debug\XEx17ProductReceipt.pdb
